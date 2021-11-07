@@ -1,1 +1,1 @@
-# Project24-EpicArchery3
+# project-C24-template
